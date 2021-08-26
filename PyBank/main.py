@@ -7,6 +7,9 @@ csv_path = os.path.join("Resources", "budget_data.csv")
 
 total_months = []
 total_amount = []
+total_changes = []
+great_incr = []
+great_decr = []
 
 
 # Loading data and closing data file
